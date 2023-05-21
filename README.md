@@ -8,6 +8,8 @@
 - ✅ I only make my own codes.
 - 🐬 My Discord is: KADIUM#0001, You can Hit me up anytime. i made my own tool, check it out: https://bypasstool.xyz
 
+<br>
+
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
   <img alt="followers" src="https://img.shields.io/github/followers/TheKindDeveloper?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
