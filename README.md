@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
 
-<h3>👨🏻‍💻About Me</h3>
+<h3>💯About Me</h3>
 
 <br>
 
