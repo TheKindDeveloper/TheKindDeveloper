@@ -2,7 +2,6 @@
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
 
 <h3>👨🏻‍💻About Me</h3>
-<p><img align="right" src="https://www.therollingnotes.com/wp-content/uploads/giphy-11.gif" alt="ValentinVandeuren" /></p>
 
 <br>
 
