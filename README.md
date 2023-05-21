@@ -5,7 +5,8 @@
 
 <br>
 
-- 👨🏻‍🎓 I've studied Web Full-Stack Development at LaCapsule.
+- ✅ I only make my own codes.
+- 
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
