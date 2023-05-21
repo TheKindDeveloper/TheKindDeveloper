@@ -2,12 +2,9 @@
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
 <br>
 <h3>💻 About Me</h3>
-
 <br>
-
 - ✅ I only make my own codes.
 - 🐬 My Discord is: KADIUM#0001, You can Hit me up anytime. i made my own tool, check it out: https://bypasstool.xyz
-
 <br><br>
 
 <p align="center">
