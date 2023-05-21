@@ -1,12 +1,12 @@
 ### 
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
 
-<h3>💯About Me</h3>
+<h3>💻 About Me</h3>
 
 <br>
 
 - ✅ I only make my own codes.
-- 
+- 🐬 My Discord is: KADIUM#0001, You can Hit me up anytime. i made my own tool, check it out: https://bypasstool.xyz
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
