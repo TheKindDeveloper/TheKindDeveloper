@@ -1,6 +1,13 @@
 ### 
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
 
+<h3>👨🏻‍💻About Me</h3>
+<p><img align="right" src="https://www.therollingnotes.com/wp-content/uploads/giphy-11.gif" alt="ValentinVandeuren" /></p>
+
+<br>
+
+- 👨🏻‍🎓 I've studied Web Full-Stack Development at LaCapsule.
+
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
   <img alt="followers" src="https://img.shields.io/github/followers/TheKindDeveloper?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
