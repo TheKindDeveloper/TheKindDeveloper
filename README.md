@@ -7,7 +7,7 @@
 <br>
 
 - ✅ I only make my own codes.
-- 🐬 My Discord is: KADIUM#0001, You can Hit me up anytime. i made my own tool, check it out: https://bypasstool.xyz
+- 🐬 My Discord is: yo#7800, You can Hit me up anytime. i made my own tool, check it out: https://bypasstool.xyz
 
 <br><br>
 
