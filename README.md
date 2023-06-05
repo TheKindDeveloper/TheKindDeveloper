@@ -18,7 +18,8 @@
     <img alt="Discord: yo#7800" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
   </a>
 </p>
-![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/a630a748-d9f1-4438-ba03-8d59651eb778)
+
+![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/bcfec654-ef6f-42fc-9ac7-3d7c8c55854c)
 
 # 💻 About Me
 
