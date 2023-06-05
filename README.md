@@ -21,11 +21,14 @@
 # 💻 About Me
 
 ```python
+┌──(TheKindDeveloper㉿root)-[~/devlab]
+└─$ TheKindDeveloper.py
+
 class TheKindDeveloper:
 
     banana = []
     bbc = []
-    
+
     def __me__(self) -> None:
         self.about = {
         'I mainly Program in Python',
@@ -42,6 +45,9 @@ class TheKindDeveloper:
 
     def __projects__(self) -> bbc:
         self.projects = ['...']
+
+┌──(TheKindDeveloper㉿root)-[~/devlab]
+└─$
 ```
 
 # 🎉 Discord (Find out to add)
