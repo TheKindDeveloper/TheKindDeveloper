@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">TheKindDeveloper</h1>
 
-
+![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/bcfec654-ef6f-42fc-9ac7-3d7c8c55854c)
 # 💻 About Me
 
 ```python
