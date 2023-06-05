@@ -1,6 +1,23 @@
 ### 
 <h1 align="center">TheKindDeveloper</h1>
-
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/LICENSE" target="_blank">
+    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
+  </a>
+  <a href="https://pepy.tech/project/pystyle" target="_blank">
+    <img alt="Downloads" src="https://static.pepy.tech/personalized-badge/pystyle?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads" />
+  </a>
+  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/LICENSE" target="_blank">
+    <img alt="Discord: yo#7800" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
+  </a>
+</p>
 ![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/a630a748-d9f1-4438-ba03-8d59651eb778)
 
 # 💻 About Me
