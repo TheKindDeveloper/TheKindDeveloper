@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">⭐ TheKindDeveloper ⭐</h1>
-<br>
+
 ![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/4cff03ce-844b-44a8-888e-8412dedaf938)
 
 <h3>💻 About Me</h3>
