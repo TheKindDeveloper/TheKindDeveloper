@@ -1,6 +1,11 @@
 ### 
 <h1 align="center">TheKindDeveloper</h1>
-
+<h3 align="center">Languages I know:</h3>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<p>
 ![BetterHandmadeGull-size_restricted](https://github.com/TheKindDeveloper/TheKindDeveloper/assets/129861526/4cff03ce-844b-44a8-888e-8412dedaf938)
 
 # 💻 About Me
@@ -20,12 +25,6 @@ _2 = ''''''''''''''''''''''''''''''''#🤣
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
   <img alt="followers" src="https://img.shields.io/github/followers/TheKindDeveloper?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
 </p>
-<h3 align="center">Languages I know:</h3>
-<p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<p>
   
 ### ⚡ &nbsp;GitHub Analytics
 
