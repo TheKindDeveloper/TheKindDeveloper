@@ -22,15 +22,26 @@
 
 ```python
 class TheKindDeveloper:
-    def __init__():
-        speaking = ['German','French','English']
-        programing_languages = ['Python','Golang']
 
-        nationality = 'German'
-        projects = {
-            '#1': 'bypass', #Discontinued :(
-            '#2': 'bypasses websites: bypasstool.xyz'
+    banana = []
+    bbc = []
+    
+    def __me__(self) -> None:
+        self.about = {
+        'I mainly Program in Python',
+        'Owner of Bypass Tool (discontinued)'
         }
+
+    def __my_socials__(self) -> None:
+        self.discord = "look down ∙"
+        self.github = "github.com/TheKindDeveloper"
+        self.other = ['i dont have any other socials :(']
+
+    def __langs__(self) -> banana:
+        self.langs = ['Python', 'Golang', '..']
+
+    def __projects__(self) -> bbc:
+        self.projects = ['...']
 ```
 
 # 🎉 Discord (Find out to add)
