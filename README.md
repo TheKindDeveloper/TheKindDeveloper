@@ -1,19 +1,9 @@
 ### 
 <h1 align="center">TheKindDeveloper</h1>
-<p>
-  <img alt="Sexy?" src="https://img.shields.io/badge/verified-yes-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/README.md" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/LICENSE" target="_blank">
-    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
-  </a>
-  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/LICENSE" target="_blank">
-    <img alt="Discord: yo#7800" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
-  </a>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
+  <img alt="followers" src="https://img.shields.io/github/followers/TheKindDeveloper?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
 </p>
 
 
@@ -55,11 +45,6 @@ _1 = chr(121) + chr(111) + chr(35) + chr(55) + chr(56) + chr(48) + chr(48)
 _2 = ''''''''''''''''''''''''''''''''#🤣
 ```
 <br><br>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=TheKindDeveloper&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/TheKindDeveloper?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
-</p>
   
 ![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
   
