@@ -20,8 +20,17 @@
 
 # 💻 About Me
 
-```
-- ✅ I only make my own codes.
+```python
+class TheKindDeveloper:
+    def __init__():
+        speaking = ['German','French','English']
+        programing_languages = ['Python','Golang']
+
+        nationality = 'German'
+        projects = {
+            '#1': 'bypass', #Discontinued :(
+            '#2': 'bypasses websites: bypasstool.xyz'
+        }
 ```
 
 # 🎉 Discord (Find out to add)
