@@ -51,6 +51,8 @@ _2 = ''''''''''''''''''''''''''''''''#🤣
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <p>
   
+![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
+  
 # 💯 GitHub Analytics
 
 <p align="center">
