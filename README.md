@@ -13,7 +13,7 @@ class TheKindDeveloper:
     banana = []
     bbc = []
 
-    def __me__(self) -> None:
+    def __TheKindDeveloper__(self) -> None:
         self.about = {
         'I mainly Program in Python',
         'Owner of Bypass Tool (discontinued)'
