@@ -34,13 +34,12 @@ class TheKindDeveloper:
 └─$
 ```
 
-# 🎉 Discord (Find out to add)
+# 🎉 Discord 
 ```python
 print("vnzq")
 ```
 <br><br>
-  
-![snake gif](https://github.com/DXVVAY/DXVVAY/blob/output/github-contribution-grid-snake.svg)<img align="center"> 
+
   
 # 💯 GitHub Analytics
 
