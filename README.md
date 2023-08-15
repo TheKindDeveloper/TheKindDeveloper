@@ -36,8 +36,7 @@ class TheKindDeveloper:
 
 # 🎉 Discord (Find out to add)
 ```python
-_1 = chr(121) + chr(111) + chr(35) + chr(55) + chr(56) + chr(48) + chr(48)
-_2 = ''''''''''''''''''''''''''''''''#🤣
+print("vnzq")
 ```
 <br><br>
   
