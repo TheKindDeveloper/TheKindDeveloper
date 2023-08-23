@@ -36,7 +36,7 @@ class TheKindDeveloper:
 
 # 🎉 Discord 
 ```python
-print("vnzq")
+print("hahahahahahahahahha.")
 ```
 <br><br>
 
