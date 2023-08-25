@@ -25,7 +25,7 @@ class TheKindDeveloper:
         self.other = ['i dont have any other socials :(']
 
     def __langs__(self) -> banana:
-        self.langs = ['Python', 'Golang', '..']
+        self.langs = ['Python', 'Lua', '..']
 
     def __projects__(self) -> bbc:
         self.projects = ['...']
